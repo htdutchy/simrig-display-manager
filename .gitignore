@@ -1,0 +1,23 @@
+# VideoInfo binaries should be downloaded separately from upstream.
+VideoInfo.exe
+VideoInfo.dll
+*.pdb
+
+# Saved display profiles contain machine-specific hardware identifiers.
+*.cfg
+*.cfg.*
+*.bak
+backups/
+
+# Troubleshooting outputs and generated artifacts.
+*.log
+*.zip
+.topology-*
+*.pending-*
+
+# Editor / OS files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
