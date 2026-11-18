@@ -6,6 +6,8 @@ Simrig Display Manager simplifies switching between a multi-monitor sim racing s
 
 Built around [VideoInfo by Terry MacDonald](https://github.com/terrymacdonald/VideoInfo), which does the actual saving and restoration of display settings. This repository contains only the launcher and PowerShell menu, **not VideoInfo itself**.
 
+![Simrig Display Manager menu](screenshot.png)
+
 ## Features
 
 - Three resolution-independent display profiles:
